@@ -1,0 +1,14 @@
+
+.footer-container {
+    background-color:rgba(86, 84, 84, 0.55) ;
+    opacity: 0; 
+    animation: fadeIn 1s ease-in-out forwards; 
+    padding-top: 20px;
+}
+
+
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+    }
+}

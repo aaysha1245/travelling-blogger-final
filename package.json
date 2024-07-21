@@ -1,0 +1,17 @@
+{
+  "name": "formproject",
+  "version": "1.0.0",
+  "description": "My form project using XAMPP",
+  "main": "index.js",
+  "repository": "",
+  "scripts": {
+    "sass-build": "sass --no-source-map scss:css",
+    "sass-watch": "sass --watch --no-source-map scss:css"
+  },
+  "author": "Nidhi Dhull",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "sass": "^1.77.6"
+  }
+}
